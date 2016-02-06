@@ -227,16 +227,17 @@ function create_config( )
     "admin",
     "plugins"
     },
-    sudo_users = {198828890},--Sudo users
+    sudo_users = {118333567,75213323,139990182,121069994},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V 1
+    about_text = [[sultan V 1.5
     Advanced Bot Base On Seed
     
-    @WilSoN_DeVeLoPeR[DeVeLoPeR] 
+    @alifengi [DeVeLoPeR] 
+    @cloner_admin
+    @cloner_admin2
     
-    #Open_Source 
-    [@W_SaTaN_W] [Https://github.com/DeterGent-Legion/MeGa_SaTaN]
+    channel : @sultanteam
     
 ]],
     help_text_realm = [[
@@ -312,6 +313,9 @@ This command will send text to [group_id]
 *Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only admins and sudo can use res, setowner, commands
+
+channel : @sultanteam
+
 ]],
     help_text = [[
 ]]
