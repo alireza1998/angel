@@ -53,9 +53,6 @@ local function run(msg, matches)
 end
 
 return {
-  usage = {
-    "info [Reaply]: Return Username, First Name, Last Name, Stats, Position.",
-    },
     patterns = {
       "^([Ii]nfo)$"
     },
